@@ -17,7 +17,6 @@
                 <input type="file" name="file" class="form-control" accept=".xlsx">
                 <br>
                 <button class="btn btn-success">Import Data</button>
-{{--                <a class="btn btn-warning" href=="{{url('export-csv')}}" >Export Data</a>--}}
             </form>
         </div>
     </div>

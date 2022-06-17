@@ -8,7 +8,7 @@ class StudentController extends Controller
 {
     public function view()
     {
-        return view('importexport');
+        return view('importexcel');
     }
     public function import(Request $request)
     {
